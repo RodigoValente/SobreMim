@@ -62,3 +62,20 @@ nav a:hover{
 .github1{
     filter:invert(1)
 }
+
+input{
+    width: 100%;
+    padding:8px 0px;
+    margin: 8px 0px;
+}
+
+input[type=text] {
+    height: 100px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
